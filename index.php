@@ -6,12 +6,12 @@
 -->
 <html>
 	<head>
-		<title>Strata by HTML5 UP</title>
+		<title>Dokumentasi Chalid</title>
 		<meta charset="utf-8" />
 		<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
 		<link rel="stylesheet" href="assets/css/main.css" />
 	</head>
-	<body class="is-preload">
+	<body class="is-preload" style="color:#000">
 
 		<!-- Header -->
 			<header id="header" style="background-size: auto, 290%;">
@@ -29,7 +29,7 @@
 				<!-- One -->
 					<section id="one">
 						<header class="major">
-							<h2>Dokumentasi<br />
+							<h2 style="color:#000">Dokumentasi<br />
 							(Tulis Agar Tidak Lupa)</h2>
 						</header>
 						<p>Halaman ini berisi semua dokumentasi dalam belajar yang sudah  dilakukan selama bergelut dibidang programmer, semua akan di dokumentasikan dilaman ini. Anda bisa menggunakan laman ini untuk mencari atau menambahkan isi dari pengalaman anda selama ngoding</p>
@@ -37,11 +37,11 @@
 
 				<!-- Two -->
 					<section id="two">
-						<h2>Daftar Content</h2>
+						<h2 style="color:#000">Daftar Content</h2>
 						<hr>
 						<div class="row">
 							<div class="col-2">
-								<h3>HTML</h3>
+								<h3 style="color:#000">HTML</h3>
 							</div>
 							<div class="col-10">
 								<ul>
@@ -53,11 +53,11 @@
 
 						<div class="row">
 							<div class="col-2">
-								<h3>CSS</h3>
+								<h3 style="color:#000">CSS</h3>
 							</div>
 							<div class="col-10">
 								<ul>
-									<li>.....</li>
+									<li><a href="css/klasifikasi_display_css.php">Program untuk Klasifikasi Tampilan HP atau Laptop dengan CSS</a></li>
 									<li>.....</li>
 								</ul>
 							</div>
@@ -65,7 +65,7 @@
 
 						<div class="row">
 							<div class="col-2">
-								<h3>JAVASCRIPT</h3>
+								<h3 style="color:#000">JAVASCRIPT</h3>
 							</div>
 							<div class="col-10">
 								<ul>
